@@ -12,7 +12,7 @@
 ### 内容说明
 
 - data：存放本文复现案例所使用的数据，文件名对应原文名称。
-- myado：存放自定义命令 `coefstability` 及其 help 文档，以及运行本文 dofile 所需的外部命令。
+- myado：存放自定义命令 `coefstability` ，以及运行本文 dofile 所需的外部命令。
 - Orig_dofile：存放所复现两篇文章作者提供的原始资料。
 - out： 存放本文使用的原始图表。
 - refs： 存放用于在 Stata 中调用参考文献的 dofile。
