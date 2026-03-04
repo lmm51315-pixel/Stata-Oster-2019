@@ -22,4 +22,4 @@
   - Windows: `C:\stata\ado\personal\`
   - Mac/Linux: `~/Documents/Stata/ado/personal/`
 - 运行 `myado.do` 以安装所有外部命令，完成后建议重启 Stata 以确保命令正常加载。
-- 运行本文提供的的 dofile `T14_马俊豪_2026.do` 前，请更改 全局宏中的 `PP` , 将其设置为本项目所在的路径。其余代码无需修改，可直接点击执行。
+- 运行本文提供的的 dofile `Stata 程序编写：Oster (2019) 系数稳定性检验.do` 前，请更改 全局宏中的 `PP` , 将其设置为本项目所在的路径。其余代码无需修改，可直接点击执行。
